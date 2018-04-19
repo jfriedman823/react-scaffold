@@ -1,3 +1,5 @@
+$blue: rgb(199, 24, 132);
+
 .App {
   text-align: center;
 }
@@ -8,7 +10,7 @@
 }
 
 .App-header {
-  background-color: #222;
+  background-color: $blue;
   height: 150px;
   padding: 20px;
   color: white;
